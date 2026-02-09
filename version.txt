@@ -1,4 +1,12 @@
 ------------------------------------
+Version    : 0.0.3
+Owner      : Enes Can Türkoğlu
+Date       : 2026-02-09
+Information: Created python_callback.py: Implemented PythonOperator with XCom to share data between tasks (task_write_xcom >> task_get_xcom). Added docstrings.
+------------------------------------
+
+
+------------------------------------
 Version    : 0.0.2
 Owner      : Enes Can Türkoğlu
 Date       : 2026-02-09
