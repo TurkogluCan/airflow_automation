@@ -1,0 +1,14 @@
+------------------------------------
+Version    : 0.0.2
+Owner      : Enes Can Türkoğlu
+Date       : 2026-02-09
+Information: Updated our_first_dag_2.py: changed schedule to @once and updated task dependencies to run sequentially (task1 >> task2 >> task3).
+------------------------------------
+
+
+------------------------------------
+Version    : 0.0.1
+Owner      : Enes Can Türkoğlu
+Date       : 2026-02-09
+Information: Initial release
+------------------------------------
