@@ -1,4 +1,12 @@
 ------------------------------------
+Version    : 0.0.4
+Owner      : Enes Can Türkoğlu
+Date       : 2026-02-11
+Information: Created dag_with_taskflow.py: Implemented TaskFlow API using @dag and @task decorators for a modern Airflow DAG pattern. Tasks include get_name, get_age, and greet with automatic XCom handling.
+------------------------------------
+
+
+------------------------------------
 Version    : 0.0.3
 Owner      : Enes Can Türkoğlu
 Date       : 2026-02-09
